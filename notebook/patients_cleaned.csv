@@ -1,0 +1,180 @@
+Patient_ID,Date_of_Admission,Name,Age,Gender,Diseases,Treatement,Waiting_time,Doctor,Cost,Readmission,Date_of_Discharge,Lenth_of_Stay,Department,Rank_of_Doctors
+10,10-07-2025,John,25,Male,Allergic Reaction,Epinephrine Injection,1,Dhole,100,No,24-08-2025,45,A,5
+25,25-07-2025,Sarah,28,Female,Allergic Reaction,Epinephrine Injection,2,Lande,100,No,07-09-2025,44,A,5
+40,09-08-2025,Alex,25,Male,Allergic Reaction,Epinephrine Injection,3,Agrawal,100,No,22-09-2025,44,A,5
+55,24-08-2025,Michael,28,Male,Allergic Reaction,Epinephrine Injection,3,Bansali,100,No,07-10-2025,44,A,5
+70,07-09-2025,Emma,25,Female,Allergic Reaction,Epinephrine Injection,4,Fuse,100,No,22-10-2025,45,A,5
+85,22-09-2025,Olivia,28,Female,Allergic Reaction,Epinephrine Injection,6,Agrawal,100,No,05-11-2025,44,A,5
+100,07-10-2025,Daniel,25,Male,Allergic Reaction,Epinephrine Injection,7,Lande,100,No,20-11-2025,44,C,5
+115,22-10-2025,Sophia,28,Female,Allergic Reaction,Epinephrine Injection,1,Dhole,100,No,05-12-2025,44,C,5
+130,05-11-2025,James,25,Male,Allergic Reaction,Epinephrine Injection,2,Giri,100,No,20-12-2025,45,C,5
+145,20-11-2025,Isabella,28,Female,Allergic Reaction,Epinephrine Injection,3,Fuse,100,No,21-12-2025,31,C,5
+160,05-12-2025,Shannon Harrison,25,Male,Allergic Reaction,Epinephrine Injection,4,Deshmukh,100,No,22-12-2025,17,C,5
+175,20-12-2025,Peter Davila,28,Male,Allergic Reaction,Epinephrine Injection,5,Agrawal,100,No,23-12-2025,3,A,5
+7,07-07-2025,Katherine Gray,55,Female,Appendicitis,Appendectomy,6,Aggrawal,8000,No,21-08-2025,45,A,3
+22,22-07-2025,Megan Miller,60,Male,Appendicitis,Appendectomy,7,Lande,8000,Yes,04-09-2025,44,A,3
+37,06-08-2025,James Williams,45,Male,Appendicitis,Appendectomy,1,Agrawal,8000,No,19-09-2025,44,A,3
+52,21-08-2025,Derrick Alexander,60,Male,Appendicitis,Appendectomy,1,Bansali,8000,Yes,04-10-2025,44,A,3
+67,04-09-2025,Courtney Clark,45,Male,Appendicitis,Appendectomy,1,Fuse,8000,No,19-10-2025,45,A,3
+82,19-09-2025,James Smith,60,Female,Appendicitis,Appendectomy,2,Deshmukh,8000,Yes,02-11-2025,44,A,3
+97,04-10-2025,James Reynolds,45,Male,Appendicitis,Appendectomy,2,Lande,8000,No,17-11-2025,44,A,3
+112,19-10-2025,Brittany Sutton,60,Female,Appendicitis,Appendectomy,2,Dhole,8000,Yes,02-12-2025,44,A,3
+127,02-11-2025,Annette Medina,45,Male,Appendicitis,Appendectomy,3,Giri,8000,No,17-12-2025,45,A,3
+142,17-11-2025,James Duncan,60,Female,Appendicitis,Appendectomy,4,Deshmukh,8000,Yes,31-12-2025,44,A,3
+157,02-12-2025,Donna Taylor,45,Female,Appendicitis,Appendectomy,5,Deshmukh,8000,No,10-12-2025,8,A,3
+172,17-12-2025,David Robertson,60,Male,Appendicitis,Appendectomy,6,Bansali,8000,Yes,20-12-2025,3,A,3
+187,31-12-2025,Susan Brown,45,Male,Appendicitis,Appendectomy,7,Agrawal,8000,No,31-12-2025,0,A,3
+5,05-07-2025,Jessica Ortega,50,Male,Cancer,Surgery and Chemotherapy,8,Deshmukh,25000,No,13-11-2025,131,A,4
+20,20-07-2025,Jeremy Hall,53,Female,Cancer,Surgery and Chemotherapy,1,Lande,25000,Yes,08-11-2025,111,A,4
+35,04-08-2025,Peter Jones,55,Female,Cancer,Surgery and Chemotherapy,2,Agrawal,25000,No,09-11-2025,97,A,4
+50,19-08-2025,Michael Sampson,53,Male,Cancer,Surgery and Chemotherapy,3,Bansali,25000,Yes,08-12-2025,111,A,4
+65,02-09-2025,Daniel Erickson,55,Male,Cancer,Surgery and Chemotherapy,4,Fuse,25000,No,09-12-2025,98,A,4
+80,17-09-2025,David Aguilar,53,Female,Cancer,Surgery and Chemotherapy,4,Deshmukh,25000,Yes,24-12-2025,98,A,4
+95,02-10-2025,Benjamin Vance,55,Male,Cancer,Surgery and Chemotherapy,4,Lande,25000,No,25-12-2025,84,A,4
+110,17-10-2025,Yolanda Chen,53,Male,Cancer,Surgery and Chemotherapy,4,Dhole,25000,Yes,26-12-2025,70,A,4
+125,31-10-2025,Kristina Douglas,55,Female,Cancer,Surgery and Chemotherapy,5,Dhole,25000,No,27-12-2025,57,A,4
+140,15-11-2025,Scott Davidson,53,Male,Cancer,Surgery and Chemotherapy,1,Deshmukh,25000,Yes,28-12-2025,43,A,4
+155,30-11-2025,Alexandra Harrington,55,Female,Cancer,Surgery and Chemotherapy,2,Deshmukh,25000,No,29-12-2025,29,B,4
+170,15-12-2025,Richard Johnson,53,Female,Cancer,Surgery and Chemotherapy,3,Bansali,25000,Yes,30-12-2025,15,B,4
+185,29-12-2025,Christopher Chapman,55,Male,Cancer,Surgery and Chemotherapy,4,Agrawal,25000,No,31-12-2025,2,B,4
+13,13-07-2025,Jerry Browning,30,Female,Childbirth,Delivery and Postnatal Care,5,Dhole,12000,No,28-10-2025,107,B,4
+28,28-07-2025,Carrie Page,35,Male,Childbirth,Delivery and Postnatal Care,6,Agrawal,12000,No,12-11-2025,107,B,4
+43,12-08-2025,Michelle Benjamin,32,Male,Childbirth,Delivery and Postnatal Care,7,Bansali,12000,No,27-11-2025,107,B,4
+58,27-08-2025,James Woods,35,Male,Childbirth,Delivery and Postnatal Care,8,Fuse,12000,No,12-12-2025,107,B,4
+73,10-09-2025,Angela Dunn,32,Female,Childbirth,Delivery and Postnatal Care,9,Deshmukh,12000,No,03-10-2025,23,B,4
+88,25-09-2025,Nathan Riley,35,Male,Childbirth,Delivery and Postnatal Care,1,Agrawal,12000,No,04-10-2025,9,B,4
+103,10-10-2025,Shelby Mahoney,32,Male,Childbirth,Delivery and Postnatal Care,2,Lande,12000,No,01-11-2025,22,B,4
+118,25-10-2025,Andrea Frey,35,Female,Childbirth,Delivery and Postnatal Care,3,Dhole,12000,No,02-11-2025,8,B,4
+133,08-11-2025,Justin Martin,32,Male,Childbirth,Delivery and Postnatal Care,4,Giri,12000,No,12-11-2025,4,B,4
+148,23-11-2025,Mark Hartman,35,Male,Childbirth,Delivery and Postnatal Care,4,Fuse,12000,No,25-12-2025,32,B,4
+163,08-12-2025,Antonio Hansen,32,Male,Childbirth,Delivery and Postnatal Care,4,Bansali,12000,No,26-12-2025,18,B,4
+178,23-12-2025,Lynn Anderson,35,Male,Childbirth,Delivery and Postnatal Care,5,Agrawal,12000,No,27-12-2025,4,B,4
+2,02-07-2025,Michael Cooley,60,Female,Diabetes,Insulin Therapy,6,Deshmukh,2000,Yes,29-10-2025,119,B,3
+17,17-07-2025,Mitchell Sanders,62,Female,Diabetes,Insulin Therapy,7,Deshmukh,2000,No,13-11-2025,119,B,4
+32,01-08-2025,Maria Cross,65,Female,Diabetes,Insulin Therapy,8,Agrawal,2000,No,28-11-2025,119,D,3
+47,16-08-2025,Lisa Castillo,62,Female,Diabetes,Insulin Therapy,9,Bansali,2000,No,29-11-2025,105,D,4
+62,30-08-2025,Theresa Rodriguez,65,Male,Diabetes,Insulin Therapy,1,Fuse,2000,No,30-11-2025,92,D,3
+77,14-09-2025,Kimberly Wood,62,Female,Diabetes,Insulin Therapy,2,Deshmukh,2000,No,01-12-2025,78,D,4
+92,29-09-2025,Patricia Cox,65,Female,Diabetes,Insulin Therapy,3,Agrawal,2000,No,02-12-2025,64,D,3
+107,14-10-2025,Kimberly Blair,62,Female,Diabetes,Insulin Therapy,3,Dhole,2000,No,03-12-2025,50,D,4
+122,28-10-2025,Jason Ramirez,65,Female,Diabetes,Insulin Therapy,4,Dhole,2000,No,04-12-2025,37,D,3
+137,12-11-2025,Gail Dudley,62,Female,Diabetes,Insulin Therapy,4,Deshmukh,2000,No,05-12-2025,23,D,4
+152,27-11-2025,John West,65,Male,Diabetes,Insulin Therapy,2,Fuse,2000,No,06-12-2025,9,D,3
+167,12-12-2025,Patricia Carr,62,Male,Diabetes,Insulin Therapy,3,Bansali,2000,No,23-12-2025,11,D,4
+3,03-07-2025,David Nunez,32,Male,Fractured Arm,X-Ray and Splint,4,Deshmukh,500,No,16-08-2025,44,D,5
+18,18-07-2025,Collin Peterson,35,Female,Fractured Arm,X-Ray and Splint,5,Deshmukh,500,Yes,31-08-2025,44,D,5
+33,02-08-2025,Rebecca Smith,30,Male,Fractured Arm,X-Ray and Splint,3,Agrawal,500,No,30-08-2025,28,D,5
+48,17-08-2025,Lisa Benjamin,35,Female,Fractured Arm,X-Ray and Splint,3,Bansali,500,Yes,14-09-2025,28,D,5
+63,31-08-2025,Desiree Reyes,30,Female,Fractured Arm,X-Ray and Splint,4,Fuse,500,No,15-09-2025,15,D,5
+78,15-09-2025,Megan Diaz,35,Male,Fractured Arm,X-Ray and Splint,5,Deshmukh,500,Yes,30-11-2025,76,D,5
+93,30-09-2025,Joseph Adams,30,Female,Fractured Arm,X-Ray and Splint,2,Lande,500,No,01-12-2025,62,D,5
+108,15-10-2025,Sharon Watson,35,Male,Fractured Arm,X-Ray and Splint,1,Dhole,500,Yes,02-12-2025,48,D,5
+123,29-10-2025,Tiffany Smith,30,Female,Fractured Arm,X-Ray and Splint,1,Dhole,500,No,03-12-2025,35,D,5
+138,13-11-2025,Alexander Preston,35,Female,Fractured Arm,X-Ray and Splint,2,Deshmukh,500,Yes,04-12-2025,21,D,5
+153,28-11-2025,Randall Hickman,30,Male,Fractured Arm,X-Ray and Splint,3,Fuse,500,No,05-12-2025,7,C,5
+168,13-12-2025,David Hernandez,35,Male,Fractured Arm,X-Ray and Splint,4,Bansali,500,Yes,27-12-2025,14,C,5
+183,27-12-2025,Michelle Jones,30,Female,Fractured Arm,X-Ray and Splint,4,Agrawal,500,No,28-12-2025,1,C,5
+8,08-07-2025,Tonya Gonzalez,40,Male,Fractured Leg,Cast and Physical Therapy,4,Dhole,3000,No,05-09-2025,59,C,4
+23,23-07-2025,Sarah Johnson,45,Male,Fractured Leg,Cast and Physical Therapy,,Lande,3000,No,20-09-2025,59,C,4
+38,07-08-2025,Grace Valencia,40,Female,Fractured Leg,Cast and Physical Therapy,6,Agrawal,3000,No,05-10-2025,59,C,4
+53,22-08-2025,Sarah Young,45,Male,Fractured Leg,Cast and Physical Therapy,6,Bansali,3000,No,20-10-2025,59,C,4
+68,05-09-2025,Gerald Weber,40,Male,Fractured Leg,Cast and Physical Therapy,7,Fuse,3000,No,03-11-2025,59,C,4
+83,20-09-2025,Gregory Turner,45,Male,Fractured Leg,Cast and Physical Therapy,7,Deshmukh,3000,No,20-10-2025,30,C,4
+98,05-10-2025,Laura Cortez,40,Female,Fractured Leg,Cast and Physical Therapy,4,Lande,3000,No,03-11-2025,29,C,4
+113,20-10-2025,Lori Miller,45,Male,Fractured Leg,Cast and Physical Therapy,4,Dhole,3000,No,18-11-2025,29,C,4
+128,03-11-2025,Lori Gomez PhD,40,Female,Fractured Leg,Cast and Physical Therapy,2,Giri,3000,No,19-11-2025,16,C,4
+143,18-11-2025,Dawn Foster,45,Male,Fractured Leg,Cast and Physical Therapy,4,Deshmukh,3000,No,20-11-2025,2,C,4
+158,03-12-2025,Peter Welch,40,Female,Fractured Leg,Cast and Physical Therapy,5,Deshmukh,3000,No,03-12-2025,0,C,4
+173,18-12-2025,Maria Carter,45,Female,Fractured Leg,Cast and Physical Therapy,5,Bansali,3000,No,18-12-2025,0,C,4
+9,09-07-2025,Daniel Hood,70,Male,Heart Attack,Cardiac Catheterization,4,Lande,18000,Yes,24-08-2025,46,C,2
+24,24-07-2025,Amanda Hernandez,75,Female,Heart Attack,Cardiac Catheterization,5,Lande,18000,Yes,07-09-2025,45,C,2
+39,08-08-2025,Alyssa Schmidt,78,Female,Heart Attack,Cardiac Catheterization,6,Agrawal,18000,Yes,22-09-2025,45,C,2
+54,23-08-2025,Taylor Merritt DVM,75,Female,Heart Attack,Cardiac Catheterization,6,Bansali,18000,Yes,07-10-2025,45,C,2
+69,06-09-2025,Alyssa Smith,78,Female,Heart Attack,Cardiac Catheterization,4,Fuse,18000,Yes,22-10-2025,46,A,2
+84,21-09-2025,Nathan Navarro,75,Male,Heart Attack,Cardiac Catheterization,2,Agrawal,18000,Yes,05-11-2025,45,A,2
+99,06-10-2025,Lisa Zimmerman,78,Male,Heart Attack,Cardiac Catheterization,1,Lande,18000,Yes,20-11-2025,45,A,2
+114,21-10-2025,Jeffrey Howard,75,Male,Heart Attack,Cardiac Catheterization,1,Dhole,18000,Yes,05-12-2025,45,A,2
+129,04-11-2025,Morgan Bell,78,Male,Heart Attack,Cardiac Catheterization,3,Giri,18000,Yes,20-12-2025,46,A,2
+144,19-11-2025,Angelica Steele,75,Female,Heart Attack,Cardiac Catheterization,5,Fuse,18000,Yes,21-12-2025,32,A,2
+159,04-12-2025,Gregory Daniels,78,Male,Heart Attack,Cardiac Catheterization,3,Deshmukh,18000,Yes,22-12-2025,18,A,2
+174,19-12-2025,Eric Davis,75,Male,Heart Attack,Cardiac Catheterization,3,Agrawal,18000,Yes,23-12-2025,4,A,2
+1,01-07-2025,Natalie Kelley,45,Male,Heart Disease,Angioplasty,2,Aggrawal,15000,No,31-07-2025,30,A,4
+16,16-07-2025,Ruth Davis,55,Male,Heart Disease,Angioplasty,1,Deshmukh,15000,Yes,15-08-2025,30,A,3
+31,31-07-2025,Emily Torres,48,Female,Heart Disease,Angioplasty,3,Agrawal,15000,Yes,29-08-2025,29,A,4
+46,15-08-2025,Nancy Davis,55,Female,Heart Disease,Angioplasty,4,Bansali,15000,Yes,13-09-2025,29,A,3
+61,29-08-2025,Amanda Bowers,48,Female,Heart Disease,Angioplasty,2,Fuse,15000,Yes,28-09-2025,30,A,4
+76,13-09-2025,Alison Lang,55,Male,Heart Disease,Angioplasty,7,Deshmukh,15000,Yes,13-10-2025,30,A,3
+91,28-09-2025,Matthew Massey,48,Male,Heart Disease,Angioplasty,6,Agrawal,15000,Yes,14-10-2025,16,B,4
+106,13-10-2025,James Anderson,55,Female,Heart Disease,Angioplasty,,Dhole,15000,Yes,11-11-2025,29,B,3
+136,11-11-2025,Robert Howard,55,Female,Heart Disease,Angioplasty,5,Deshmukh,15000,Yes,26-11-2025,15,B,3
+151,26-11-2025,Rebecca Brown,48,Male,Heart Disease,Angioplasty,5,Fuse,15000,Yes,11-12-2025,15,B,4
+166,11-12-2025,Kimberly Harrison,55,Male,Heart Disease,Angioplasty,6,Bansali,15000,Yes,26-12-2025,15,B,3
+181,26-12-2025,Derek Parks,48,Female,Heart Disease,Angioplasty,2,Agrawal,15000,Yes,27-12-2025,1,B,4
+6,06-07-2025,Jennifer Baker,68,Female,Hypertension,Medication and Counseling,7,Aggrawal,1000,No,21-07-2025,15,B,4
+21,21-07-2025,Diana Schultz,72,Female,Hypertension,Medication and Counseling,3,Lande,1000,No,05-08-2025,15,B,4
+36,05-08-2025,Mrs. Jill Long,68,Male,Hypertension,Medication and Counseling,2,Agrawal,1000,No,20-08-2025,15,B,4
+51,20-08-2025,Heather Johnson,72,Female,Hypertension,Medication and Counseling,4,Bansali,1000,No,03-09-2025,14,B,4
+66,03-09-2025,Robert Lowery,68,Female,Hypertension,Medication and Counseling,5,Fuse,1000,No,18-09-2025,15,B,4
+81,18-09-2025,Alice,72,Male,Hypertension,Medication and Counseling,3,Deshmukh,1000,No,03-10-2025,15,B,4
+96,03-10-2025,Angela Williams,68,Female,Hypertension,Medication and Counseling,3,Lande,1000,No,16-12-2025,74,A,4
+111,18-10-2025,Brent Burns,72,Male,Hypertension,Medication and Counseling,6,Dhole,1000,No,17-12-2025,60,A,4
+126,01-11-2025,Melissa Barber,68,Male,Hypertension,Medication and Counseling,3,Giri,1000,No,18-12-2025,47,A,4
+141,16-11-2025,John Warner,72,Male,Hypertension,Medication and Counseling,6,Deshmukh,1000,No,19-12-2025,33,A,4
+156,01-12-2025,Christopher Baxter,68,Female,Hypertension,Medication and Counseling,8,Deshmukh,1000,No,20-12-2025,19,A,4
+171,16-12-2025,Courtney Haas,72,Male,Hypertension,Medication and Counseling,8,Bansali,1000,No,21-12-2025,5,A,4
+186,30-12-2025,Sarah Ross,68,Male,Hypertension,Medication and Counseling,9,Agrawal,1000,No,30-12-2025,0,A,4
+14,14-07-2025,Manuel Baker,52,Female,Kidney Stones,Lithotripsy,4,Dhole,6000,No,11-11-2025,120,A,3
+29,29-07-2025,Jessica Lamb,50,Male,Kidney Stones,Lithotripsy,4,Agrawal,6000,No,26-11-2025,120,A,3
+44,13-08-2025,Jaime Nguyen,55,Female,Kidney Stones,Lithotripsy,4,Bansali,6000,No,11-12-2025,120,A,3
+59,28-08-2025,Tina Chavez,50,Female,Kidney Stones,Lithotripsy,6,Fuse,6000,No,24-11-2025,88,A,3
+74,11-09-2025,Christina Thompson,55,Male,Kidney Stones,Lithotripsy,7,Deshmukh,6000,No,09-12-2025,89,A,3
+89,26-09-2025,Shari Harrell,50,Male,Kidney Stones,Lithotripsy,7,Agrawal,6000,No,24-12-2025,89,A,3
+104,11-10-2025,Tracy Gibbs,55,Female,Kidney Stones,Lithotripsy,6,Lande,6000,No,25-12-2025,75,A,3
+119,26-10-2025,David Hoffman,50,Male,Kidney Stones,Lithotripsy,2,Dhole,6000,No,26-12-2025,61,A,3
+134,09-11-2025,Robert Davis,55,Male,Kidney Stones,Lithotripsy,1,Giri,6000,No,27-12-2025,48,A,3
+149,24-11-2025,Patricia Greer,50,Female,Kidney Stones,Lithotripsy,3,Fuse,6000,No,28-12-2025,34,D,3
+164,09-12-2025,James Stewart,55,Male,Kidney Stones,Lithotripsy,4,Bansali,6000,No,29-12-2025,20,D,3
+179,24-12-2025,Brent Mendoza,50,Female,Kidney Stones,Lithotripsy,5,Agrawal,6000,No,30-12-2025,6,D,3
+15,15-07-2025,Dawn Taylor,58,Female,Osteoarthritis,Physical Therapy and Pain Management,6,Dhole,4000,No,14-08-2025,30,D,4
+30,30-07-2025,Larry Brown,60,Female,Osteoarthritis,Physical Therapy and Pain Management,7,Agrawal,4000,No,12-09-2025,44,D,4
+45,14-08-2025,Miss Teresa Hernandez MD,65,Female,Osteoarthritis,Physical Therapy and Pain Management,7,Bansali,4000,No,27-09-2025,44,D,4
+75,12-09-2025,Edward Baker,65,Female,Osteoarthritis,Physical Therapy and Pain Management,7,Deshmukh,4000,No,12-10-2025,30,D,4
+90,27-09-2025,Diana Gould,60,Male,Osteoarthritis,Physical Therapy and Pain Management,7,Agrawal,4000,No,27-10-2025,30,D,4
+105,12-10-2025,Amy Rodriguez,65,Male,Osteoarthritis,Physical Therapy and Pain Management,7,Lande,4000,No,10-11-2025,29,D,4
+120,27-10-2025,Paul Hull,60,Male,Osteoarthritis,Physical Therapy and Pain Management,8,Dhole,4000,No,25-11-2025,29,D,4
+135,10-11-2025,Allison Hamilton,65,Female,Osteoarthritis,Physical Therapy and Pain Management,1,Deshmukh,4000,No,10-12-2025,30,D,4
+150,25-11-2025,John King,60,Male,Osteoarthritis,Physical Therapy and Pain Management,1,Fuse,4000,No,25-12-2025,30,D,4
+165,10-12-2025,Tristan Avila,65,Male,Osteoarthritis,Physical Therapy and Pain Management,4,Bansali,4000,No,26-12-2025,16,D,4
+180,25-12-2025,Connie Cooper,60,Female,Osteoarthritis,Physical Therapy and Pain Management,3,Agrawal,4000,No,27-12-2025,2,D,4
+12,12-07-2025,Judith Santos,65,Male,Prostate Cancer,Radiation Therapy,5,Dhole,20000,No,27-09-2025,77,D,3
+27,27-07-2025,Michaela Powell,67,Female,Prostate Cancer,Radiation Therapy,5,Lande,20000,No,12-10-2025,77,B,3
+42,11-08-2025,Lawrence Roberts,58,Female,Prostate Cancer,Radiation Therapy,6,Bansali,20000,No,27-10-2025,77,B,3
+57,26-08-2025,Nicholas Robinson DDS,67,Male,Prostate Cancer,Radiation Therapy,7,Fuse,20000,No,10-11-2025,76,B,3
+72,09-09-2025,Jill Smith,58,Male,Prostate Cancer,Radiation Therapy,1,Deshmukh,20000,No,25-11-2025,77,B,3
+87,24-09-2025,Michael Burns,67,Female,Prostate Cancer,Radiation Therapy,2,Agrawal,20000,No,10-12-2025,77,B,3
+102,09-10-2025,Adam Weaver,58,Male,Prostate Cancer,Radiation Therapy,3,Lande,20000,No,25-12-2025,77,B,3
+117,24-10-2025,Melvin Mcgee,67,Male,Prostate Cancer,Radiation Therapy,4,Dhole,20000,No,07-12-2025,44,B,3
+132,07-11-2025,William Banks,58,Female,Prostate Cancer,Radiation Therapy,5,Giri,20000,No,22-12-2025,45,B,3
+147,22-11-2025,Dawn Morton,67,Male,Prostate Cancer,Radiation Therapy,6,Fuse,20000,No,07-12-2025,15,B,3
+162,07-12-2025,Frank Dawson,58,Male,Prostate Cancer,Radiation Therapy,7,Lande,20000,No,22-12-2025,15,B,3
+177,22-12-2025,Gregory Davila,67,Male,Prostate Cancer,Radiation Therapy,8,Agrawal,20000,No,23-12-2025,1,C,3
+11,11-07-2025,Rebekah Finley,48,Male,Respiratory Infection,Antibiotics and Rest,9,Dhole,800,No,24-12-2025,166,C,4
+26,26-07-2025,Robert Martinez,52,Male,Respiratory Infection,Antibiotics and Rest,10,Lande,800,No,25-12-2025,152,C,4
+41,10-08-2025,Steven Crawford,52,Female,Respiratory Infection,Antibiotics and Rest,11,Agrawal,800,No,26-12-2025,138,C,4
+56,25-08-2025,Leslie King,52,Female,Respiratory Infection,Antibiotics and Rest,9,Bansali,800,No,27-12-2025,124,C,4
+71,08-09-2025,George Cannon,52,Male,Respiratory Infection,Antibiotics and Rest,8,Deshmukh,800,No,28-12-2025,111,C,4
+86,23-09-2025,Adam Carlson,52,Female,Respiratory Infection,Antibiotics and Rest,7,Agrawal,800,No,29-12-2025,97,A,4
+101,08-10-2025,Stephanie Lawrence,52,Female,Respiratory Infection,Antibiotics and Rest,6,Lande,800,No,30-12-2025,83,A,4
+116,23-10-2025,Maithili,52,Female,Respiratory Infection,Antibiotics and Rest,5,Dhole,800,No,31-12-2025,69,A,4
+131,06-11-2025,Adam Blackwell,52,Male,Respiratory Infection,Antibiotics and Rest,4,Giri,800,No,28-12-2025,52,A,4
+146,21-11-2025,Andrew Owens,52,Male,Respiratory Infection,Antibiotics and Rest,3,Fuse,800,No,29-12-2025,38,A,4
+161,06-12-2025,John Sexton,52,Female,Respiratory Infection,Antibiotics and Rest,2,Lande,800,No,30-12-2025,24,A,4
+176,21-12-2025,Jasmine Williams,52,Male,Respiratory Infection,Antibiotics and Rest,1,Agrawal,800,No,31-12-2025,10,A,4
+4,04-07-2025,Leon Nguyen,75,Female,Stroke,CT Scan and Medication,4,Deshmukh,10000,Yes,27-09-2025,85,A,2
+19,19-07-2025,John White,78,Female,Stroke,CT Scan and Medication,6,Deshmukh,10000,No,28-09-2025,71,A,2
+34,03-08-2025,Justin Martinez,70,Female,Stroke,CT Scan and Medication,7,Agrawal,10000,Yes,29-09-2025,57,A,2
+49,18-08-2025,Nathaniel Kemp,78,Female,Stroke,CT Scan and Medication,8,Bansali,10000,No,30-09-2025,43,A,2
+64,01-09-2025,Jacob Murray,70,Male,Stroke,CT Scan and Medication,7,Fuse,10000,Yes,01-10-2025,30,A,2
+79,16-09-2025,Anthony Green,78,Female,Stroke,CT Scan and Medication,4,Deshmukh,10000,No,02-10-2025,16,A,2
+94,01-10-2025,Trevor Freeman,70,Male,Stroke,CT Scan and Medication,3,Lande,10000,Yes,29-12-2025,89,A,2
+109,16-10-2025,Michael Smith,78,Male,Stroke,CT Scan and Medication,1,Dhole,10000,No,30-12-2025,75,A,2
